@@ -423,12 +423,30 @@ padding-right: 90px;
     padding-top: 30px;
     text-align: center;
     /* padding: 10px; */
-    padding-bottom: 27px;
+    padding-bottom: 22px;
 
 }
 .face-new{
     width: 40px;
     height: 40px;
+}
+.all-right{
+color: #FFF;
+font-size: 20px;
+font-weight: 300;
+}
+.unsub{
+color: #FFF;
+font-size: 20px;
+font-weight: 300;
+}
+.last-text{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 40px;
+    padding-bottom: 50px;
 }
 
 
