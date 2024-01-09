@@ -381,7 +381,54 @@ input{
     color: #FFF;
     font-weight: 700;
     margin-bottom: 40px;
+    cursor: pointer;
 }
 .input-detals{
     padding-top: 10px;
 }
+.main-footer{
+    background-color: #070211;
+    width: 100%;
+    margin: 0 auto;
+}
+.last-p{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 80px;
+    padding-bottom: 13px;}
+.footer-p{
+color: #FFF;
+font-size: 20px;
+font-weight: 300;
+width: 330px;
+line-height: 30px;
+margin-top: -10px;
+/* padding-left: 100px; */
+ 
+}
+
+.logo-pera{
+color: #FFF;
+font-size: 14px;
+font-weight: 300;
+line-height: 25px;
+padding-right: 90px;
+}
+.logo-peragaraph{
+   
+}
+.face-log{
+    padding-top: 30px;
+    text-align: center;
+    /* padding: 10px; */
+    padding-bottom: 27px;
+
+}
+.face-new{
+    width: 40px;
+    height: 40px;
+}
+
+
